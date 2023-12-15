@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"],
-      "components/*": ["./components/*"],
+      "@/*": ["./src/*"],
+      "components/*": ["./src/components/*"],
     },
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
