@@ -26,7 +26,7 @@
     "eslint": "8.53.0",
     "eslint-config-next": "^14.0.2",
     "js-cookie": "^3.0.5",
-    "mysql2": "^3.5.3",
+    "mysql2": "^3.7.0",
     "next": "^14.0.2",
     "next-themes": "^0.2.1",
     "postcss": "^8.4.31",
