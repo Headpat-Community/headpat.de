@@ -84,7 +84,7 @@
     "typescript": "^5.4.5",
     "use-places-autocomplete": "^4.0.1",
     "vaul": "^0.9.1",
-    "zod": "^3.23.6"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "20.12.7",
