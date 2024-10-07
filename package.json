@@ -101,7 +101,7 @@
   "devDependencies": {
     "@types/google.maps": "^3.58.1",
     "@types/node": "22.7.1",
-    "@types/react": "18.3.9",
+    "@types/react": "18.3.11",
     "@types/sanitize-html": "^2.13.0",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.8",
